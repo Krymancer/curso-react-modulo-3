@@ -1,11 +1,12 @@
 # CURSO DESENVOLVIMENTO DE WEB
 
 FRONT-ENDS COM REACT
-MÓDULO 2: EXERCÍCIO 2
-PRAZO DE ENTREGA: 10/12/2021
+MÓDULO 3: TRABALHO FINAL
+PRAZO DE ENTREGA: 20/02/2022
 
-Você deverá criar uma aplicação web front-end utilizando a API create-react-app. O
-passo a passo necessário para realizar tal tarefa está posto na apostila do Módulo
+Você deverá criar uma aplicação web front-end utilizando a API
+create-react-app. Programe com React Hooks, TypeScript, Redux, Axios.
+Programe um teste qualquer com Jest.
 
 1. Programe com React Hooks e utilize apenas componentes funcionais.
    Quando for executar a API create-react-app, dê o nome que preferir a sua
@@ -18,4 +19,4 @@ passo a passo necessário para realizar tal tarefa está posto na apostila do M�
 
 # Deploy
 
-Você pode acessar o deploy clicando [aqui](http://krymancer.me/curso-react-modulo-2-exercicio-2/)
+Você pode acessar o deploy clicando [aqui](http://krymancer.me/curso-react-modulo-3/)
